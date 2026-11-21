@@ -5,6 +5,8 @@
 
 > 雇用形態での副業は行っておりません。 **業務委託（納品型）** のみ対応しています。
 
+🌐 ポートフォリオサイト： https://gomamonaka.github.io/
+
 ## こんなお困りごとに対応します
 
 - Excel / CSVの整形・集計を毎回手作業でやっている
@@ -42,12 +44,12 @@
 - **[Yorisoi-ClickOnce](https://github.com/gomamonaka/Yorisoi-ClickOnce)** — Chrome上のリンクからClickOnceアプリを起動する拡張機能＋Native Host＋インストーラー一式
   - C# / .NET 8、設計書・脅威モデル・セキュリティ方針・単体テスト完備
   - セッション情報を扱うため、ログに認証情報を残さない設計を徹底
-- **PetaPin（ぺたピン）** — Windows向けスクリーンショット・画面ピン留め・注釈・ローカルOCRアプリ
-  - 単一EXE／ZIP／インストーラーの3形式で配布できる形まで実装
-- **ChatHub** — 複数のビジネスチャットを1つのWindowsアプリに集約するクライアント
-  - アカウントごとのセッション分離、未読バッジ、Windows通知連携、省メモリ設計（WebView2）
-- **ExtIMEDicBuilder** — 複数行の定型文をMicrosoft IMEの変換候補に登録するWPFアプリ
-  - 生成結果が仕様とバイト単位で一致することを単体テストで検証
+- **[PetaPin（ぺたピン）](https://github.com/gomamonaka/PetaPin)** — Windows向けスクリーンショット・画面ピン留め・注釈・ローカルOCRアプリ（ソースコード公開）
+  - 画像と文字の処理はPC内で完結し、クラウド送信なし。単体テスト62件付き
+- **[ChatHub](https://github.com/gomamonaka/ChatHub)** — 複数のビジネスチャットを1つのWindowsアプリに集約するクライアント（ソースコード公開）
+  - アカウントごとのセッション分離、未読バッジ、Windows通知連携、省メモリ設計（WebView2）。単体テスト170件付き
+- **[ExtIMEDicBuilder](https://github.com/gomamonaka/ext-ime-dic-builder)** — 複数行の定型文をMicrosoft IMEの変換候補に登録するWPFアプリ（ソースコード公開）
+  - 生成結果が仕様とバイト単位で一致することを単体テスト74件で検証
 - **ClipBridge** — 2台のWindows PC間で暗号化してクリップボードを共有する常駐アプリ
 
 ### 概要のみ紹介（コード非公開）

@@ -50,7 +50,7 @@
   - アカウントごとのセッション分離、未読バッジ、Windows通知連携、省メモリ設計（WebView2）。単体テスト170件付き
 - **[ExtIMEDicBuilder](https://github.com/gomamonaka/ext-ime-dic-builder)** — 複数行の定型文をMicrosoft IMEの変換候補に登録するWPFアプリ（ソースコード公開）
   - 生成結果が仕様とバイト単位で一致することを単体テスト74件で検証
-- **ClipBridge** — 2台のWindows PC間で暗号化してクリップボードを共有する常駐アプリ
+- **[ClipBridge](https://github.com/gomamonaka/ClipBridge)** — 2台のWindows PC間で暗号化してクリップボードを共有する常駐アプリ（ソースコード公開）
 
 ### 概要のみ紹介（コード非公開）
 

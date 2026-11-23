@@ -44,7 +44,7 @@
 - **[Yorisoi-ClickOnce](https://github.com/gomamonaka/Yorisoi-ClickOnce)** — Chrome上のリンクからClickOnceアプリを起動する拡張機能＋Native Host＋インストーラー一式
   - C# / .NET 8、設計書・脅威モデル・セキュリティ方針・単体テスト完備
   - セッション情報を扱うため、ログに認証情報を残さない設計を徹底
-- **[PetaPin（ぺたピン）](https://github.com/gomamonaka/PetaPin)** — Windows向けスクリーンショット・画面ピン留め・注釈・ローカルOCRアプリ（ソースコード公開）
+- **[PetaPin（ぺたピン）](https://it-yorisoi.jp/petapin/)** — Windows向けスクリーンショット・画面ピン留め・注釈・ローカルOCRアプリ（有料販売中）
   - 画像と文字の処理はPC内で完結し、クラウド送信なし。単体テスト62件付き
 - **[ChatHub](https://github.com/gomamonaka/ChatHub)** — 複数のビジネスチャットを1つのWindowsアプリに集約するクライアント（ソースコード公開）
   - アカウントごとのセッション分離、未読バッジ、Windows通知連携、省メモリ設計（WebView2）。単体テスト170件付き
